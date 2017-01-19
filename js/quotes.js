@@ -1,72 +1,89 @@
 var quotes = [
     {
         quote: 'If you can dream it, you can do it',
-        author: 'Walt Disney',
+        source: 'Walt Disney',
+        citation: 'Animated Architecture',
+        year: '1982',
         category: 'Inspiriation'
     },
     {
-        quote: 'Success is where preparation and opporunity meet.',
-        author: 'Bobby Unser',
-        category: 'Sports'
+        quote: 'Luck is what happens when prepartion meets opportunity.',
+        source: 'Seneca, the Younger',
+        category: 'Inspiration'
     },
     {
-        quote: 'If you can dream it, you can do it',
-        author: 'Walt Disney'
+        quote: 'Courage is the main quality of leadership, in my opinion, no matter where it is exercised.',
+        source: 'Walt Disney',
+        citation: 'The Magic of Teamwork',
+        year: '1997',
+        category: 'Inspiration'
     },
     {
         quote: 'Behind every great man is a woman rolling her eyes.',
-        author: 'Jim Carey',
-        category: 'Humor'
+        source: 'Jim Carey',
+        citation: 'Bruce Almighty',
+        year: '2003',
+        category: 'Humor',
 
     },
     {
         quote: 'Oh, the weather outside is weather.',
-        author: 'Kunu, Forgetting Sarah Marshall',
-        category: 'Movies'
+        source: 'Kunu',
+        citation: 'Forgetting Sarah Marshall',
+        year: '2008',
+        category: 'Humor'
     },
     {
         quote: 'The supreme art of war is to subdue the enemy without fighting',
-        author: 'Sun Tzu',
+        source: 'Sun Tzu',
+        citation: 'The Art of War',
+        year: '5th Century BC',
         category: 'War'
     },
     {
         quote: "If it doesn't matter who wins or loses, then why do they keep score?",
-        author: 'Vince Lombardi',
+        source: 'Vince Lombardi',
         category: 'Sports'
     },
     {
-        quote: 'The purpose of art is washing the dust of daily life off our souls.',
-        author: 'Pablo Picasso',
-        category: 'Art'
+        quote: 'Success is dangerous. One begins to copy oneself and to copy oneself is more dangerous than to copy others.',
+        source: 'Pablo Picasso',
+        citation: 'The Artist, Vol. 93',
+        year: '1978',
+        category: 'Success'
     },
     {
-        quote: 'What we think, we become.',
-        author: 'Buddha',
-        category: 'Inspiration'
-    },
-    {
-        quote: 'Expert: a man who makes three correct guesses consecutively',
-        author: 'Laurence J. Peter',
-        category: 'Humor'
+        quote: 'Victory breeds enmity, The defeated one sleeps badly.  The peaceful one sleeps at ease, having abandoned victory and defeat.',
+        source: 'Buddha',
+        citation: 'Samyutta Niakaya',
+        category: 'War'
     },
     {
         quote: "Discovered by the Germans in 1904, they named it San Diego, which, of cource, in German means a whale's vagina.",
-        author: 'Ron Burgandy - Anchorman',
-        category: 'Movies'
+        source: 'Ron Burgandy',
+        citation: 'Anchorman',
+        year: '2004',
+        category: 'Geography'
     },
     {
         quote: "America is all about speed.  Hot, nasty, badass speed.",
-        author: 'Eleanor Roosevelt, Taladegha Nights',
-        category: 'Movies'
+        source: 'Eleanor Roosevelt',
+        citation: 'Talladega Nights',
+        year: '2006',
+        category: 'Speed'
     },
     {
         quote: "Well, I'm the best there is.  Plain and simple, when I wake up in the morning I piss excellence.",
-        author: 'Ricky Bobby, Taladegha Nights',
-        category: 'Movies'
+        source: 'Ricky Bobby, Taladegha Nights',
+        citation: 'Talladega Nights',
+        year: '2006',
+        category: 'Excellence'
     },
     {
         quote: "Everything is funnny, as long as it's happening to somebody else.",
-        author: 'Will Rogers',
+        source: 'Will Rogers',
+        citation: 'The Illiterate Digest',
+        year: '1924',
         category: 'Humor'
     }
-]
+];

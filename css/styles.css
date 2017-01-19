@@ -57,7 +57,15 @@ body {
   font-style: normal;
 }
 
-#loadQuote {
+.category{
+    font-size: 1.15rem;
+    letter-spacing: 0.05em;
+    line-height: .9;
+    text-align: right;
+    margin-right: 4.35em;
+}
+
+#loadQuote{
   position: fixed;
   width: 12em;
   display: inline-block;
@@ -71,6 +79,7 @@ body {
   padding: 15px 0;
   transition: .5s ;
 }
+
 #loadQuote:hover {
   background-color: rgba(255,255,255,.25);
 }
